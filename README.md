@@ -73,6 +73,9 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 
 
+
+
+ 
 # Output : 
 ~~~
 Enter arrival data:   12 24 36 48 76 73 
