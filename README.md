@@ -86,10 +86,15 @@ SD = np.sqrt(var)
 print(f"The Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
+
 ~~~
 # Output : 
-<img width="564" height="110" alt="image" src="https://github.com/user-attachments/assets/4a31a926-468e-4b41-8346-9169af43462c" />
-
+~~~
+Enter arrival data:   12 24 36 48 76 73 
+The Mean arrival rate is 44.833
+The Variance of arrival from feeder is 560.806
+The Standard deviation of arrival from feeder is 23.681
+~~~
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
